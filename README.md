@@ -3,7 +3,7 @@ Conceptos aprendidos sobre arquitectura Cliente/Servidor, REST APIs y el diseño
 
 # Proyecto Capstone - API Flask
 
-Este es un proyecto simple de servidor Flask con dos rutas principales: **GET /info** y **POST /mensaje**. El objetivo de este proyecto es practicar los conceptos aprendidos sobre arquitectura Cliente/Servidor, REST APIs, y diseño de endpoints.
+Este es un proyecto simple de servidor Flask con dos rutas principales: **GET /info** y **POST /mensaje**. El objetivo de este proyecto es practicar los conceptos aprendidos sobre arquitectura Cliente/Servidor, REST APIs, y diseño de endpoints. Se utilizó Python, Flask y Postman.
 
 # Diagrama cliente servidor 
 
