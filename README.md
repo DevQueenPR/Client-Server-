@@ -11,6 +11,8 @@ Este es un proyecto simple de servidor Flask con dos rutas principales: **GET /i
 
 
 #POST
+
+
 ![image](https://github.com/user-attachments/assets/ef4e9ab8-9f48-4cf6-b931-bf820bedcd09)
 
 
