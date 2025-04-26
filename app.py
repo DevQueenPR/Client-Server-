@@ -13,7 +13,7 @@ def get_info():
 # Ruta POST /mensaje
 @app.route('/mensaje', methods=['GET', 'POST'])
 def recibir_mensaje():
-    print("Método recibido:", request.method)  # <-- Agregado
+    print("Método recibido:", request.method)  
 
     if request.method == 'POST':
         data = request.get_json()
